@@ -1,0 +1,4 @@
+# Virtual environment
+.chatbot/
+chatbot/
+ENV/
